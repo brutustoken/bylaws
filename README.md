@@ -33,21 +33,12 @@ La estructura de gobierno consta de:
 
 ### Artículo 5: Mecanismos de Decisión
 
-1. **Votaciones On-chain:**
-   - Las propuestas requieren un mínimo de 1% de tokens para ser presentadas.
-   - El quórum mínimo es del 10% de los tokens circulantes.
-   - La mayoría simple (>50%) aprueba propuestas regulares.
-   - La mayoría cualificada (>67%) es necesaria para cambios en los estatutos o parámetros críticos.
-
-2. **Proceso de Propuestas:**
-   - Fase de discusión (mínimo 72 horas)
-   - Fase de temperatura (off-chain, 48 horas)
-   - Votación formal (on-chain, 120 horas)
-   - Implementación (según especificado en la propuesta)
-
-3. **Decisiones Técnicas:**
-   - El equipo de desarrollo tiene autonomía para decisiones técnicas menores.
-   - Las actualizaciones críticas requieren múltiples revisiones y aprobación del Consejo.
+1. **Reuniones:**
+   - Mensualmente se programa almenos una reunion
+   - Reuniones extraordinarias
+  
+2. **Deciciones por mayoria:**
+   - se buscara que la mayoria de los directivos esten presentes si no es posible se esperara ahsta la proxima reunion, sino buscaran metodos de comunicaion alternativos para qu exprese su decicion sobre el asunto en cuestion
 
 ## III. Estructura Operativa
 
