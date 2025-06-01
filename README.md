@@ -20,12 +20,6 @@ Brutus.finance se establece como una organización descentralizada dedicada al d
 4. **Innovación:** Mejora continua de soluciones tecnológicas.
 5. **Comunidad:** Participación activa y gobierno compartido.
 
-### Artículo 3: Estructura Legal
-
-1. La entidad operará como una DAO (Organización Autónoma Descentralizada) con representación legal en jurisdicciones favorables.
-2. Las decisiones fundamentales se implementarán a través de votación con tokens de gobernanza.
-3. La propiedad intelectual se mantendrá como bienes comunes (commons) bajo licencias abiertas cuando sea posible.
-
 ## II. Modelo de Gobernanza
 
 ### Artículo 4: Órganos de Gobierno
